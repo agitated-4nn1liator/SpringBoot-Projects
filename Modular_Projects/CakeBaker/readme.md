@@ -3,5 +3,7 @@ This project corresponds to the Assignment of first Module (Coding Shuttle - Spr
 **Topics Covered:**
 
 - Stereotype Annotations
+
 - Auto-configuration
+
 - Dependency Injection
